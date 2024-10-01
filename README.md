@@ -22,7 +22,7 @@ The aim of this project is to build a device capable of monitoring the temperatu
 The 16x2 LCD is connected to the Raspberry Pi Pico using I2C communication via the I2C driver.
 The DHT11 sensor is connected to the Raspberry Pi Pico via the analog input, allowing it to collect real-time temperature and humidity data.
 
-###########################################################################################################################################
+********************************************************************************************************************************************
 
 ![DEVRE ŞEMASI](https://github.com/user-attachments/assets/3a5e6ff2-df97-46d2-a90e-5e5feabf1896)
 
