@@ -18,7 +18,7 @@ The aim of this project is to build a device capable of monitoring the temperatu
     - pico_i2c_lcd.py: For setting up the LCD display with Raspberry Pi Pico.
     - In the main.py file, data from the DHT11 sensor is read and then displayed on the 16x2 LCD screen in real-time.
 
-##Wiring Diagram:
+## Wiring Diagram:
 The 16x2 LCD is connected to the Raspberry Pi Pico using I2C communication via the I2C driver.
 The DHT11 sensor is connected to the Raspberry Pi Pico via the analog input, allowing it to collect real-time temperature and humidity data.
 
